@@ -32,5 +32,3 @@ catkin_package(
 include_directories(SYSTEM ${Boost_INCLUDE_DIR})
 include_directories(${catkin_INCLUDE_DIRS})
 link_directories(${catkin_LIBRARY_DIRS})
-
-catkin_add_env_hooks(99.pepper_unity_functions SHELLS bash DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/env-hooks)
