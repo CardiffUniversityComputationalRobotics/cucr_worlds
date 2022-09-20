@@ -8818,5 +8818,6 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose>35.5998 -14.9812 0 0 -0 0</pose>
     </model>
+    <plugin name="ActorPosesPlugin" filename="libActorPosesPlugin.so"></plugin>
   </world>
 </sdf>
