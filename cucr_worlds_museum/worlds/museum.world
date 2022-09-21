@@ -1,5 +1,6 @@
-<sdf version='1.7'>
-  <world name='default'>
+<?xml version='1.0' encoding='utf-8'?>
+<sdf version='1.6'>
+  <world name='world'>
     <physics type='ode'>
       <ode>
         <solver>
@@ -95,7 +96,7 @@
       <background>0.7 0.7 0.7 1</background>
       <shadows>1</shadows>
     </scene>
-    <state world_name='default'>
+    <state world_name='world'>
       <sim_time>13271 211000000</sim_time>
       <real_time>58 749771866</real_time>
       <wall_time>1659559218 967484140</wall_time>
@@ -8818,6 +8819,7 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose>35.5998 -14.9812 0 0 -0 0</pose>
     </model>
+    
     <plugin name="ActorPosesPlugin" filename="libActorPosesPlugin.so"></plugin>
   </world>
 </sdf>
