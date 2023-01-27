@@ -10,7 +10,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 )
 
-install(DIRECTORY models worlds media
+install(DIRECTORY models worlds
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
