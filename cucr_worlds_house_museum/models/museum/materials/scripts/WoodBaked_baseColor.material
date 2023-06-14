@@ -1,0 +1,14 @@
+material WoodBaked_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture WoodBaked_baseColor.jpeg
+            }
+        }
+    }
+}

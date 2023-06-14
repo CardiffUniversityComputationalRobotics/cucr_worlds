@@ -1,0 +1,14 @@
+material Image_H_02_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture Image_H_02_baseColor.jpeg
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+material Picture_Frame_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture Picture_Frame_baseColor.jpeg
+            }
+        }
+    }
+}

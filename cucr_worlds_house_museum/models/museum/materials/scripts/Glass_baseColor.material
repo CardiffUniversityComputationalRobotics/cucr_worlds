@@ -1,0 +1,14 @@
+material Glass_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture Glass_baseColor.png
+            }
+        }
+    }
+}

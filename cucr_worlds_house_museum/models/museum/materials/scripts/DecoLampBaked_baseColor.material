@@ -1,0 +1,14 @@
+material DecoLampBaked_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture DecoLampBaked_baseColor.jpeg
+            }
+        }
+    }
+}

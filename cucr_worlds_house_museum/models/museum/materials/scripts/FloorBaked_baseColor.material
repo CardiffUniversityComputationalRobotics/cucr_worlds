@@ -1,0 +1,14 @@
+material FloorBaked_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture FloorBaked_baseColor.jpeg
+            }
+        }
+    }
+}

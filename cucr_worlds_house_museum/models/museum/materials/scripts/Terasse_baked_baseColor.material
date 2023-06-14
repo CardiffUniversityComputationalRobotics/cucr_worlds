@@ -1,0 +1,14 @@
+material Terasse_baked_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture Terasse_baked_baseColor.jpeg
+            }
+        }
+    }
+}

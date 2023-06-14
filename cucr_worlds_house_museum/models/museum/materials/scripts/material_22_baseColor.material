@@ -1,0 +1,14 @@
+material material_22_baseColor/Diffuse
+{
+    recieve_shadows off
+    technique 
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture material_22_baseColor.png
+            }
+        }
+    }
+}
