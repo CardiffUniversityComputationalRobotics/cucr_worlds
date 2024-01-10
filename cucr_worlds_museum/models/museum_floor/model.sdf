@@ -1,14 +1,19 @@
 <?xml version="1.0" ?>
-<sdf version="1.5">
-  <model name="museum_floor">
-    <static>true</static>
+<sdf version="1.6">
+  <model name="aws_robomaker_hospital_floor_01_floor">
     <link name="link">
+      <visual name="visual">
+	    <geometry>
+          <mesh>
+            <uri>model://museum_floor/meshes/floor.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
       <collision name="collision">
         <geometry>
-          <plane>
-            <normal>0 0 1</normal>
-            <size>100 100</size>
-          </plane>
+          <mesh>
+            <uri>model://museum_floor/meshes/floor.dae</uri>
+          </mesh>
         </geometry>
         <surface>
           <friction>
@@ -18,22 +23,8 @@
             </ode>
           </friction>
         </surface>
-      </collision>
-      <visual name="visual">
-        <cast_shadows>false</cast_shadows>
-        <geometry>
-          <plane>
-            <normal>0 0 1</normal>
-            <size>100 100</size>
-          </plane>
-        </geometry>
-        <material>
-          <script>
-            <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/Wood</name>
-          </script>
-        </material>
-      </visual>
-    </link>
+      </collision>    
+</link>
+  <static>1</static>
   </model>
 </sdf>
