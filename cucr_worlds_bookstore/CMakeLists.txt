@@ -9,9 +9,8 @@ endif()
 find_package(ament_cmake REQUIRED)
 find_package(gazebo_ros REQUIRED)
 
-install(DIRECTORY maps DESTINATION share/${PROJECT_NAME})
-install(DIRECTORY models DESTINATION share/${PROJECT_NAME})
-install(DIRECTORY worlds DESTINATION share/${PROJECT_NAME})
+install(DIRECTORY models worlds maps 
+        DESTINATION share/${PROJECT_NAME})
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)

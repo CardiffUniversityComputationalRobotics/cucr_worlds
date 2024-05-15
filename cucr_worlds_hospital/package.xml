@@ -1,37 +1,25 @@
 <?xml version="1.0"?>
-<package format="2">
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
   <name>cucr_worlds_hospital</name>
   <version>0.0.0</version>
   <description>The cucr_worlds_hospital package</description>
+  <maintainer email="silvas1@cardiff.ac.uk">Steven Alexander Silva Mendoza</maintainer>
+  <license>MIT License</license>
 
-  <maintainer email="millan-normans@cardiff.ac.uk">samn</maintainer>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <license>TODO</license>
+  <depend>gazebo_ros</depend>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>ros2launch</exec_depend>
 
-  <build_depend>roscpp</build_depend>
-  <build_depend>rospy</build_depend>
-  <build_depend>std_msgs</build_depend>
-  <!-- <build_depend>mbf_msgs</build_depend> -->
-  <build_export_depend>roscpp</build_export_depend>
-  <build_export_depend>rospy</build_export_depend>
-  <build_export_depend>std_msgs</build_export_depend>
-  <!-- <build_export_depend>mbf_msgs</build_export_depend> -->
-  <exec_depend>roscpp</exec_depend>
-  <exec_depend>rospy</exec_depend>
-  <exec_depend>std_msgs</exec_depend>
-
-  <!-- Gazebo packages -->
-  <depend>rqt_gui</depend>
-  <depend>rviz</depend>
-
-  <exec_depend>gazebo_ros</exec_depend>
-  <exec_depend>gazebo</exec_depend>
-  <exec_depend>gazebo_plugins</exec_depend>
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
 
   <export>
-    <gazebo_ros plugin_path="${prefix}/lib" gazebo_media_path="${prefix}" gazebo_model_path="${prefix}/models"/>
+    <build_type>ament_cmake</build_type>
+    <gazebo_ros gazebo_media_path="${prefix}"/>
+    <gazebo_ros gazebo_model_path="${prefix}/models"/>
+    <gazebo_ros gazebo_plugin_path="${prefix}/lib" gazebo_model_path="${prefix}/.."/>
   </export>
-
 </package>
