@@ -21,11 +21,11 @@
     </include>
 
     <model name="museum_floor">
-        <include>
-          <uri>model://museum_floor</uri>
-          <static>true</static>
-          <pose>-0.001425 -0.014447 0 0 -0 0</pose>
-        </include>
+      <include>
+        <uri>model://museum_floor</uri>
+        <static>true</static>
+        <pose>-0.001425 -0.014447 0 0 -0 0</pose>
+      </include>
     </model>
 
     <model name="museum">
@@ -36,6 +36,5 @@
       </include>
     </model>
 
-    <plugin name="ActorPosesPlugin" filename="libActorPosesPlugin.so"></plugin>
   </world>
 </sdf>

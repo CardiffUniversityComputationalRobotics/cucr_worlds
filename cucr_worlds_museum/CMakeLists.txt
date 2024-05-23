@@ -1,30 +1,28 @@
-cmake_minimum_required(VERSION 3.0.2)
+cmake_minimum_required(VERSION 3.8)
 project(cucr_worlds_museum)
 
-add_compile_options(-std=c++11)
+if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
+  add_compile_options(-Wall -Wextra -Wpedantic)
+endif()
 
-find_package(gazebo_ros_link_attacher QUIET)
+# find dependencies
+find_package(ament_cmake REQUIRED)
+find_package(gazebo_ros REQUIRED)
 
-find_package(catkin REQUIRED
-  COMPONENTS 
-    roscpp
-    moveit_core
-    moveit_ros_planning
-    moveit_ros_planning_interface
-    gazebo_ros
-)
+install(DIRECTORY maps models worlds launch 
+        DESTINATION share/${PROJECT_NAME})
 
+if(BUILD_TESTING)
+  find_package(ament_lint_auto REQUIRED)
+  # the following line skips the linter which checks for copyrights
+  # comment the line when a copyright and license is added to all source files
+  set(ament_cmake_copyright_FOUND TRUE)
+  # the following line skips cpplint (only works in a git repo)
+  # comment the line when this package is in a git repo and when
+  # a copyright and license is added to all source files
+  set(ament_cmake_cpplint_FOUND TRUE)
+  ament_lint_auto_find_test_dependencies()
+endif()
 
-find_package(Boost REQUIRED system filesystem date_time thread)
+ament_package()
 
-catkin_package(
-    CATKIN_DEPENDS
-)
-
-include_directories(SYSTEM ${Boost_INCLUDE_DIR})
-include_directories(${catkin_INCLUDE_DIRS})
-link_directories(${catkin_LIBRARY_DIRS})
-
-install(DIRECTORY models worlds
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-)
