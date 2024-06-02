@@ -9,7 +9,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 find_package(gazebo_ros REQUIRED)
 
-install(DIRECTORY models worlds 
+install(DIRECTORY models worlds maps 
         DESTINATION share/${PROJECT_NAME})
 
 if(BUILD_TESTING)
