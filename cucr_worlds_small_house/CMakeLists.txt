@@ -7,7 +7,7 @@ endif()
 
 # find dependencies
 find_package(ament_cmake REQUIRED)
-find_package(gazebo_ros REQUIRED)
+# find_package(gazebo_ros REQUIRED)
 
 install(DIRECTORY models worlds maps launch
         DESTINATION share/${PROJECT_NAME})
