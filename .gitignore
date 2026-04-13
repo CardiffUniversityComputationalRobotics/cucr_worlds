@@ -172,3 +172,4 @@ build/
 *.cproject
 *.project
 
+.codex
