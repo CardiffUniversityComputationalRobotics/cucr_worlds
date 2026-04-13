@@ -11,7 +11,7 @@
           <ixz>0</ixz>
           <iyy>459441.200</iyy>
           <iyz>0</iyz>
-          <izz>1302083.333</izz>
+          <izz>1293465.000</izz>
         </inertia>
       </inertial>
       <collision name="collision">
