@@ -59,8 +59,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/Ceiling</name>
             </script>
           </material>
@@ -80,8 +80,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/Hallway</name>
             </script>
           </material>
@@ -116,8 +116,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -139,8 +139,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -162,8 +162,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -185,8 +185,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -208,8 +208,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -231,8 +231,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/Elevator</name>
             </script>
           </material>
@@ -254,8 +254,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/Elevator</name>
             </script>
           </material>
@@ -277,8 +277,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -300,8 +300,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -323,8 +323,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -346,8 +346,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -369,8 +369,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -392,8 +392,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -415,8 +415,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -438,8 +438,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -461,8 +461,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -484,8 +484,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -507,8 +507,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -530,8 +530,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -553,8 +553,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -576,8 +576,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -599,8 +599,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -622,8 +622,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -645,8 +645,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -668,8 +668,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -691,8 +691,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -714,8 +714,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -737,8 +737,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -760,8 +760,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -783,8 +783,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -806,8 +806,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -829,8 +829,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -852,8 +852,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -875,8 +875,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -898,8 +898,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -921,8 +921,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -944,8 +944,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -967,8 +967,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -990,8 +990,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1013,8 +1013,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1036,8 +1036,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1059,8 +1059,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1082,8 +1082,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1105,8 +1105,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1128,8 +1128,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1151,8 +1151,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1174,8 +1174,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1197,8 +1197,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1220,8 +1220,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1243,8 +1243,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1266,8 +1266,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1289,8 +1289,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1312,8 +1312,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1335,8 +1335,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1358,8 +1358,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1381,8 +1381,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1404,8 +1404,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1427,8 +1427,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1450,8 +1450,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1473,8 +1473,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1496,8 +1496,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1519,8 +1519,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1542,8 +1542,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/Door</name>
             </script>
           </material>
@@ -1565,8 +1565,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1588,8 +1588,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1611,8 +1611,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1634,8 +1634,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1657,8 +1657,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1680,8 +1680,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1703,8 +1703,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1726,8 +1726,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1749,8 +1749,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1772,8 +1772,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1795,8 +1795,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1818,8 +1818,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1841,8 +1841,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1864,8 +1864,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1887,8 +1887,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1910,8 +1910,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1933,8 +1933,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1956,8 +1956,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -1979,8 +1979,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2002,8 +2002,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2025,8 +2025,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2048,8 +2048,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2071,8 +2071,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2094,8 +2094,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2117,8 +2117,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2140,8 +2140,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2163,8 +2163,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2186,8 +2186,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2209,8 +2209,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2232,8 +2232,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2255,8 +2255,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2278,8 +2278,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2301,8 +2301,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2324,8 +2324,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2347,8 +2347,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2370,8 +2370,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2393,8 +2393,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2416,8 +2416,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2439,8 +2439,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2462,8 +2462,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2485,8 +2485,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2508,8 +2508,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2531,8 +2531,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2554,8 +2554,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2577,8 +2577,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2600,8 +2600,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2623,8 +2623,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2646,8 +2646,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2669,8 +2669,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2692,8 +2692,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2715,8 +2715,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2738,8 +2738,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2761,8 +2761,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2784,8 +2784,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2807,8 +2807,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2830,8 +2830,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2853,8 +2853,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2876,8 +2876,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2899,8 +2899,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2922,8 +2922,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2945,8 +2945,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2968,8 +2968,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -2991,8 +2991,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3014,8 +3014,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3037,8 +3037,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3060,8 +3060,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3083,8 +3083,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3106,8 +3106,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3129,8 +3129,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3152,8 +3152,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3175,8 +3175,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3198,8 +3198,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3221,8 +3221,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3244,8 +3244,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3267,8 +3267,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3290,8 +3290,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3313,8 +3313,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3336,8 +3336,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3359,8 +3359,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3382,8 +3382,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3405,8 +3405,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3428,8 +3428,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3451,8 +3451,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3474,8 +3474,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3497,8 +3497,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3520,8 +3520,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3546,8 +3546,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3561,8 +3561,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3577,8 +3577,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3593,8 +3593,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3608,8 +3608,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3624,8 +3624,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3640,8 +3640,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3656,8 +3656,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3672,8 +3672,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3688,8 +3688,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3704,8 +3704,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3720,8 +3720,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/</uri>
-              <uri>file://media/materials/textures/</uri>
+              <uri>../media/materials/scripts/</uri>
+              <uri>../media/materials/textures/</uri>
               <name>ServiceSim/PlainWall</name>
             </script>
           </material>
@@ -3784,7 +3784,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/bathroom.obj</uri>
+              <uri>../media/meshes/bathroom.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3793,7 +3793,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3802,7 +3802,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3811,7 +3811,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3820,7 +3820,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3930,7 +3930,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/bathroom.obj</uri>
+              <uri>../media/meshes/bathroom.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3939,7 +3939,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3948,7 +3948,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3957,7 +3957,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -3966,7 +3966,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4076,7 +4076,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/refreshment_area.obj</uri>
+              <uri>../media/meshes/refreshment_area.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4085,7 +4085,7 @@
           <pose>          -4.5          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4094,7 +4094,7 @@
           <pose>          -4.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4103,7 +4103,7 @@
           <pose>          -4.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4112,7 +4112,7 @@
           <pose>          -4.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4121,7 +4121,7 @@
           <pose>          -4.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4130,7 +4130,7 @@
           <pose>          -3.0          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4139,7 +4139,7 @@
           <pose>          -3.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4148,7 +4148,7 @@
           <pose>          -3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4157,7 +4157,7 @@
           <pose>          -3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4166,7 +4166,7 @@
           <pose>          -3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4175,7 +4175,7 @@
           <pose>          -1.5          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4184,7 +4184,7 @@
           <pose>          -1.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4193,7 +4193,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4202,7 +4202,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4211,7 +4211,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4220,7 +4220,7 @@
           <pose>          0.0          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4229,7 +4229,7 @@
           <pose>          0.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4238,7 +4238,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4247,7 +4247,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4256,7 +4256,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4265,7 +4265,7 @@
           <pose>          1.5          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4274,7 +4274,7 @@
           <pose>          1.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4283,7 +4283,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4292,7 +4292,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4301,7 +4301,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4310,7 +4310,7 @@
           <pose>          3.0          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4319,7 +4319,7 @@
           <pose>          3.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4328,7 +4328,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4337,7 +4337,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4346,7 +4346,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4355,7 +4355,7 @@
           <pose>          4.5          -6.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4364,7 +4364,7 @@
           <pose>          4.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4373,7 +4373,7 @@
           <pose>          4.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4382,7 +4382,7 @@
           <pose>          4.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -4391,7 +4391,7 @@
           <pose>          4.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10666,7 +10666,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_large.obj</uri>
+              <uri>../media/meshes/meeting_room_large.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10675,7 +10675,7 @@
           <pose>          -1.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10684,7 +10684,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10693,7 +10693,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10702,7 +10702,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10711,7 +10711,7 @@
           <pose>          0.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10720,7 +10720,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10729,7 +10729,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10738,7 +10738,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10747,7 +10747,7 @@
           <pose>          1.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10756,7 +10756,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10765,7 +10765,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10774,7 +10774,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10783,7 +10783,7 @@
           <pose>          3.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10792,7 +10792,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10801,7 +10801,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10810,7 +10810,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10819,7 +10819,7 @@
           <pose>          4.5          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10828,7 +10828,7 @@
           <pose>          4.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10837,7 +10837,7 @@
           <pose>          4.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10846,7 +10846,7 @@
           <pose>          4.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10855,7 +10855,7 @@
           <pose>          6.0          -4.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10864,7 +10864,7 @@
           <pose>          6.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10873,7 +10873,7 @@
           <pose>          6.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -10882,7 +10882,7 @@
           <pose>          6.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11044,7 +11044,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11053,7 +11053,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11062,7 +11062,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11071,7 +11071,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11080,7 +11080,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11089,7 +11089,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11098,7 +11098,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11107,7 +11107,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11116,7 +11116,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11125,7 +11125,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11134,7 +11134,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11143,7 +11143,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11152,7 +11152,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11254,7 +11254,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11263,7 +11263,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11272,7 +11272,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11281,7 +11281,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11290,7 +11290,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11299,7 +11299,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11308,7 +11308,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11317,7 +11317,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11326,7 +11326,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11335,7 +11335,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11344,7 +11344,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11353,7 +11353,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11362,7 +11362,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11443,7 +11443,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_small.obj</uri>
+              <uri>../media/meshes/office_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11452,7 +11452,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11461,7 +11461,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11470,7 +11470,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11479,7 +11479,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11488,7 +11488,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11497,7 +11497,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11641,7 +11641,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_small.obj</uri>
+              <uri>../media/meshes/office_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11650,7 +11650,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11659,7 +11659,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11668,7 +11668,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11677,7 +11677,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11686,7 +11686,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11695,7 +11695,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11839,7 +11839,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11848,7 +11848,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11857,7 +11857,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11866,7 +11866,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11875,7 +11875,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11884,7 +11884,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11893,7 +11893,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11902,7 +11902,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11911,7 +11911,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11920,7 +11920,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11929,7 +11929,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11938,7 +11938,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -11947,7 +11947,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12049,7 +12049,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12058,7 +12058,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12067,7 +12067,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12076,7 +12076,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12085,7 +12085,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12094,7 +12094,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12103,7 +12103,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12112,7 +12112,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12121,7 +12121,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12130,7 +12130,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12139,7 +12139,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12148,7 +12148,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12157,7 +12157,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12238,7 +12238,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/bathroom.obj</uri>
+              <uri>../media/meshes/bathroom.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12247,7 +12247,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12256,7 +12256,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12265,7 +12265,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12274,7 +12274,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12344,7 +12344,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/bathroom.obj</uri>
+              <uri>../media/meshes/bathroom.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12353,7 +12353,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12362,7 +12362,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12371,7 +12371,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12380,7 +12380,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/tile.obj</uri>
+              <uri>../media/meshes/tile.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12421,7 +12421,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_small.obj</uri>
+              <uri>../media/meshes/office_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12430,7 +12430,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12439,7 +12439,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12448,7 +12448,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12457,7 +12457,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12466,7 +12466,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12475,7 +12475,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12516,7 +12516,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_small.obj</uri>
+              <uri>../media/meshes/office_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12525,7 +12525,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12534,7 +12534,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12543,7 +12543,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12552,7 +12552,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12561,7 +12561,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12570,7 +12570,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12651,7 +12651,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_small.obj</uri>
+              <uri>../media/meshes/office_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12660,7 +12660,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12669,7 +12669,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12678,7 +12678,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12687,7 +12687,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12696,7 +12696,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12705,7 +12705,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12849,7 +12849,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/office_large.obj</uri>
+              <uri>../media/meshes/office_large.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12858,7 +12858,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12867,7 +12867,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12876,7 +12876,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12885,7 +12885,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12894,7 +12894,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12903,7 +12903,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12912,7 +12912,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12921,7 +12921,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12930,7 +12930,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12939,7 +12939,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12948,7 +12948,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -12957,7 +12957,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13099,7 +13099,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13108,7 +13108,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13117,7 +13117,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13126,7 +13126,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13135,7 +13135,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13144,7 +13144,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13153,7 +13153,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13162,7 +13162,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13171,7 +13171,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13180,7 +13180,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13189,7 +13189,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13198,7 +13198,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13207,7 +13207,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13248,7 +13248,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13257,7 +13257,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13266,7 +13266,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13275,7 +13275,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13284,7 +13284,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13293,7 +13293,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13302,7 +13302,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13311,7 +13311,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13320,7 +13320,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13329,7 +13329,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13338,7 +13338,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13347,7 +13347,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13356,7 +13356,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13397,7 +13397,7 @@
         <visual name="visual">
           <geometry>
             <mesh>
-              <uri>file://media/meshes/meeting_room_small.obj</uri>
+              <uri>../media/meshes/meeting_room_small.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13406,7 +13406,7 @@
           <pose>          -1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13415,7 +13415,7 @@
           <pose>          -1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13424,7 +13424,7 @@
           <pose>          -1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13433,7 +13433,7 @@
           <pose>          0.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13442,7 +13442,7 @@
           <pose>          0.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13451,7 +13451,7 @@
           <pose>          0.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13460,7 +13460,7 @@
           <pose>          1.5          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13469,7 +13469,7 @@
           <pose>          1.5          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13478,7 +13478,7 @@
           <pose>          1.5          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13487,7 +13487,7 @@
           <pose>          3.0          -3.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13496,7 +13496,7 @@
           <pose>          3.0          -1.5          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
@@ -13505,7 +13505,7 @@
           <pose>          3.0          0.0          0          0          0          0        </pose>
           <geometry>
             <mesh>
-              <uri>file://media/meshes/carpet.obj</uri>
+              <uri>../media/meshes/carpet.obj</uri>
               <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>

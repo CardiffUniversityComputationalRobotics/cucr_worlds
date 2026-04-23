@@ -1,3 +1,7 @@
+if [ -d "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@" ]; then
+  ament_prepend_unique_value GZ_SIM_RESOURCE_PATH "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@"
+fi
+
 if [ -d "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@/models" ]; then
   ament_prepend_unique_value GZ_SIM_RESOURCE_PATH "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@/models"
 fi

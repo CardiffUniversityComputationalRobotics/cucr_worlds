@@ -12,5 +12,5 @@ newmtl cubicle_wall
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/cubicle_wall.png
-	map_Kd file://media/materials/textures/cubicle_wall.png
+	map_Ka ../materials/textures/cubicle_wall.png
+	map_Kd ../materials/textures/cubicle_wall.png

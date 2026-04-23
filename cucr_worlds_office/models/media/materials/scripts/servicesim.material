@@ -1,9 +1,11 @@
 material ServiceSim/Ceiling
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5
@@ -20,10 +22,12 @@ material ServiceSim/Ceiling
 
 material ServiceSim/Hallway
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5
@@ -40,10 +44,12 @@ material ServiceSim/Hallway
 
 material ServiceSim/Elevator
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5
@@ -59,10 +65,12 @@ material ServiceSim/Elevator
 
 material ServiceSim/Door
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5
@@ -78,10 +86,12 @@ material ServiceSim/Door
 
 material ServiceSim/Window
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5
@@ -97,10 +107,12 @@ material ServiceSim/Window
 
 material ServiceSim/PlainWall
 {
+  receive_shadows off
   technique
   {
     pass
     {
+      lighting off
       ambient 1.0 1.0 1.0 1.0
       diffuse 1.0 1.0 1.0 1.0
       specular 0.2 0.2 0.2 1.0 12.5

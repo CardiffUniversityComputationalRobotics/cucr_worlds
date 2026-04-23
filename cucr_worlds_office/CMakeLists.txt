@@ -9,7 +9,7 @@ endif()
 find_package(ament_cmake REQUIRED)
 # find_package(gazebo_ros REQUIRED)
 
-install(DIRECTORY models worlds launch
+install(DIRECTORY models worlds launch media
         DESTINATION share/${PROJECT_NAME})
 
 ament_environment_hooks("${CMAKE_CURRENT_SOURCE_DIR}/hooks/${PROJECT_NAME}.dsv.in")

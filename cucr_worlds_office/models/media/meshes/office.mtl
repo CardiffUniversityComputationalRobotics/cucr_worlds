@@ -12,8 +12,8 @@ newmtl wall_plain_and_door
 	Kd 1.0 1.0 1.0
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/wall_plain_and_door.png
-	map_Kd file://media/materials/textures/wall_plain_and_door.png
+	map_Ka ../materials/textures/wall_plain_and_door.png
+	map_Kd ../materials/textures/wall_plain_and_door.png
 
 newmtl wall_window_and_elevator
 	Ns 10.0000
@@ -26,8 +26,8 @@ newmtl wall_window_and_elevator
 	Kd 1.0 1.0 1.0
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/wall_window_and_elevator.png
-	map_Kd file://media/materials/textures/wall_window_and_elevator.png
+	map_Ka ../materials/textures/wall_window_and_elevator.png
+	map_Kd ../materials/textures/wall_window_and_elevator.png
 
 newmtl ceiling
 	Ns 10.0000
@@ -40,8 +40,8 @@ newmtl ceiling
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/ceiling.png
-	map_Kd file://media/materials/textures/ceiling.png
+	map_Ka ../materials/textures/ceiling.png
+	map_Kd ../materials/textures/ceiling.png
 
 newmtl wall_color
 	Ns 10.0000
@@ -54,8 +54,8 @@ newmtl wall_color
 	Kd 1.0 1.0 1.0
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/wall_color.png
-	map_Kd file://media/materials/textures/wall_color.png
+	map_Ka ../materials/textures/wall_color.png
+	map_Kd ../materials/textures/wall_color.png
 
 newmtl floors
 	Ns 10.0000
@@ -68,8 +68,8 @@ newmtl floors
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/floors.png
-	map_Kd file://media/materials/textures/floors.png
+	map_Ka ../materials/textures/floors.png
+	map_Kd ../materials/textures/floors.png
 
 newmtl bathroom
 	Ns 10.0000
@@ -82,8 +82,8 @@ newmtl bathroom
 	Kd 1.0 1.0 1.0
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/bathroom.png
-	map_Kd file://media/materials/textures/bathroom.png
+	map_Ka ../materials/textures/bathroom.png
+	map_Kd ../materials/textures/bathroom.png
 
 newmtl sink
 	Ns 10.0000
@@ -96,5 +96,5 @@ newmtl sink
 	Kd 1.0 1.0 1.0
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka file://media/materials/textures/sink.png
-	map_Kd file://media/materials/textures/sink.png
+	map_Ka ../materials/textures/sink.png
+	map_Kd ../materials/textures/sink.png
