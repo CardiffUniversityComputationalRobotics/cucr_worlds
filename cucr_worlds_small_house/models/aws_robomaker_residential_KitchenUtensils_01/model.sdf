@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
   <model name="aws_robomaker_residential_KitchenUtensils_01">
     <link name="link">
@@ -6,22 +6,24 @@
         <mass>1</mass>
       </inertial>
       <collision name="collision">
+        <pose>-0.001696 -0.000189 0.169664 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_KitchenUtensils_01/meshes/aws_KitchenUtensils_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
+          <box>
+            <size>0.078179 0.438417 0.341304</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">
-	    <geometry>
+        <geometry>
           <mesh>
             <uri>model://aws_robomaker_residential_KitchenUtensils_01/meshes/aws_KitchenUtensils_01_visual.DAE</uri>
           </mesh>
         </geometry>
-      <meta> <layer> 1 </layer></meta>
-</visual>
+        <meta>
+          <layer> 1 </layer>
+        </meta>
+      </visual>
     </link>
-	<static>1</static>
+    <static>1</static>
   </model>
 </sdf>

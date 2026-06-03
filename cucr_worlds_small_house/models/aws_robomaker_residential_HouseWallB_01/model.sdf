@@ -1,27 +1,117 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
   <model name="aws_robomaker_residential_HouseWallB_01">
     <link name="link">
       <inertial>
         <mass>1</mass>
       </inertial>
-      <collision name="collision">
+      <collision name="collision_wall_01">
+        <pose>-6 -5.6 1.5 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_HouseWallB_01/meshes/aws_HouseWallB_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
+          <box>
+            <size>7 0.2 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_02">
+        <pose>1.5 -5.6 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>8 0.2 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_03">
+        <pose>8 -5.6 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>3 0.2 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_04">
+        <pose>-5.9 3.2 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>7.2 0.2 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_05">
+        <pose>7.071 3.2 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>4.858 0.2 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_06">
+        <pose>-9.4 -1.2 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.2 9 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_07">
+        <pose>9.4 -1.2 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.2 9 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_08">
+        <pose>-2.6 -4.6 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.2 1.8 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_09">
+        <pose>-2.6 2.2 1.5 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.2 1.8 3</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_10">
+        <pose>1.171 5.6 0.25 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>7.4 0.2 0.5</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_11">
+        <pose>-2.428 4.403 0.25 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.202 2.594 0.5</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_12">
+        <pose>4.77 4.403 0.25 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.202 2.594 0.5</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">
-	    <geometry>
+        <geometry>
           <mesh>
             <uri>model://aws_robomaker_residential_HouseWallB_01/meshes/aws_HouseWallB_01_visual.DAE</uri>
           </mesh>
         </geometry>
-      <meta> <layer> 2 </layer></meta>
-</visual>
+        <meta>
+          <layer> 2 </layer>
+        </meta>
+      </visual>
     </link>
-<static>1</static>
+    <static>1</static>
   </model>
 </sdf>

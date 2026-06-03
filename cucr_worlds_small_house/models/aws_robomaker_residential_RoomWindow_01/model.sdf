@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
   <model name="aws_robomaker_residential_RoomWindow_01">
     <link name="link">
@@ -6,22 +6,24 @@
         <mass>1</mass>
       </inertial>
       <collision name="collision">
+        <pose>-0.0019 -0.000767 0.8514 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_RoomWindow_01/meshes/aws_RoomWindow_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
+          <box>
+            <size>0.117715 2.364249 1.70598</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">
-	    <geometry>
+        <geometry>
           <mesh>
             <uri>model://aws_robomaker_residential_RoomWindow_01/meshes/aws_RoomWindow_01_visual.DAE</uri>
           </mesh>
         </geometry>
-      <meta> <layer> 2 </layer></meta>
-</visual>
+        <meta>
+          <layer> 2 </layer>
+        </meta>
+      </visual>
     </link>
-	<static>1</static>
+    <static>1</static>
   </model>
 </sdf>

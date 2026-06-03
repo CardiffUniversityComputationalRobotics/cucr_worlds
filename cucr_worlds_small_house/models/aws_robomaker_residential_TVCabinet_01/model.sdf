@@ -1,11 +1,9 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
   <model name="aws_robomaker_residential_TVCabinet_01">
     <link name="link">
-      
       <inertial>
         <mass>59.2</mass>
-
         <inertia>
           <ixx>30.4</ixx>
           <ixy>0</ixy>
@@ -14,27 +12,26 @@
           <iyz>0</iyz>
           <izz>31.38</izz>
         </inertia>
-
       </inertial>
-
       <collision name="collision">
+        <pose>0.009334 0.001218 0.263208 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_TVCabinet_01/meshes/aws_TVCabinet_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
+          <box>
+            <size>0.60175 2.796524 0.491788</size>
+          </box>
         </geometry>
       </collision>
-
       <visual name="visual">
-	    <geometry>
+        <geometry>
           <mesh>
             <uri>model://aws_robomaker_residential_TVCabinet_01/meshes/aws_TVCabinet_01_visual.DAE</uri>
           </mesh>
         </geometry>
-      <meta> <layer> 1 </layer></meta>
-</visual>
+        <meta>
+          <layer> 1 </layer>
+        </meta>
+      </visual>
     </link>
-  <static>1</static>
+    <static>1</static>
   </model>
 </sdf>
