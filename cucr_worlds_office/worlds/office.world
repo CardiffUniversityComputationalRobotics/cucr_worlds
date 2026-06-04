@@ -3828,12 +3828,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -3847,13 +3865,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 6.076566300307037</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -3974,12 +3991,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -3993,13 +4028,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 6.16771591297681</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -4399,12 +4433,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -4418,13 +4470,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.921599046322593</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -10890,12 +10941,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -10909,13 +10978,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 6.1856552763732084</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11160,12 +11228,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11179,13 +11265,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.753331254423003</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11370,12 +11455,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11505,12 +11617,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11524,13 +11654,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.786881361032922</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11703,12 +11832,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11722,13 +11869,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.740762058572765</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11955,12 +12101,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -11974,13 +12138,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.69487875390748</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12165,12 +12328,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12282,12 +12472,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12301,13 +12509,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.983695865137885</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12388,12 +12595,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12483,12 +12717,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12578,12 +12839,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12713,12 +13001,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12732,13 +13038,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 5.848026472858609</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12965,12 +13270,30 @@
       </link>
       <link name="door_frame">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_frame.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -12984,13 +13307,12 @@
       </link>
       <link name="door">
         <pose>-0.3 -0.05 0 0 0 6.251885186644953</pose>
-        <collision name="collision">
-          <pose>0.45 -0.15 0 0 0 0</pose>
+        <collision name="collision_door_slab">
+          <pose>0.443423 -0.05055 1.016 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door_door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -13215,12 +13537,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -13364,12 +13713,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">
@@ -13513,12 +13889,39 @@
       </link>
       <link name="closed_door">
         <pose>-0.75 0.1 0 0 0 3.141592653589793</pose>
-        <collision name="collision">
+        <collision name="collision_frame_left">
+          <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
           <geometry>
-            <mesh>
-              <uri>model://door/meshes/door.obj</uri>
-              <scale>0.01 0.01 0.01</scale>
-            </mesh>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_right">
+          <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.091829 0.182084 2.106763</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_frame_top">
+          <pose>0 0.061363 2.0632 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>1.06781 0.182084 0.087126</size>
+            </box>
+          </geometry>
+        </collision>
+
+        <collision name="collision_door_slab">
+          <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+          <geometry>
+            <box>
+              <size>0.927155 0.268485 2.032</size>
+            </box>
           </geometry>
         </collision>
         <visual name="visual">

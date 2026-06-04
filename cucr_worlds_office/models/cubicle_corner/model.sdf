@@ -1,14 +1,22 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.5">
   <model name="cubicle_corner">
     <static>true</static>
     <link name="link">
-      <collision name="collision">
+      <collision name="collision_wall_x">
+        <pose>-0.956162 -0.025 0.662426 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://cubicle_corner/meshes/cubicle_corner.obj</uri>
-            <scale>0.01 0.01 0.01</scale>
-          </mesh>
+          <box>
+            <size>1.912324 0.05 1.324851</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_wall_y">
+        <pose>-0.025 -0.956162 0.662426 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.05 1.912324 1.324851</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">

@@ -1,14 +1,38 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.5">
   <model name="door">
     <static>true</static>
     <link name="link">
-      <collision name="collision">
+      <collision name="collision_frame_left">
+        <pose>-0.48799 0.061363 1.053382 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://door/meshes/door.obj</uri>
-            <scale>0.01 0.01 0.01</scale>
-          </mesh>
+          <box>
+            <size>0.091829 0.182084 2.106763</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_frame_right">
+        <pose>0.48799 0.061363 1.053382 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.091829 0.182084 2.106763</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_frame_top">
+        <pose>0 0.061363 2.0632 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.06781 0.182084 0.087126</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_door_slab">
+        <pose>-0.006577 0.09945 1.016 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.927155 0.268485 2.032</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">

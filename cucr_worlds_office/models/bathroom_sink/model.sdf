@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.5">
   <model name="bathroom_sink">
     <static>true</static>
     <link name="link">
       <collision name="collision">
+        <pose>0 -0.049012 0.732865 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://bathroom_sink/meshes/bathroom_sink.dae</uri>
-            <scale>1.4 1.4 1.4</scale>
-          </mesh>
+          <box>
+            <size>1.544119 0.826661 1.46573</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">

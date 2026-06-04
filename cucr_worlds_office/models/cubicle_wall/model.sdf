@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.5">
   <model name="cubicle_wall">
     <static>true</static>
     <link name="link">
-      <collision name="collision">
+      <collision name="collision_wall">
+        <pose>0.27 0 0.75 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://cubicle_wall/meshes/cubicle_wall.obj</uri>
-            <scale>0.01 0.01 0.01</scale>
-          </mesh>
+          <box>
+            <size>1.26 0.06 1.5</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">

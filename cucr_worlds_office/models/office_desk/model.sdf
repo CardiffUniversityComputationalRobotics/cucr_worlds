@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
   <model name="Desk">
     <static>true</static>
     <link name="link">
       <collision name="collision">
+        <pose>0 0 0.521187 0 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://office_desk/meshes/office_desk.dae</uri>
-            <scale>1.4 1.4 1.4</scale>
-          </mesh>
+          <box>
+            <size>2.47616 1.080696 1.042374</size>
+          </box>
         </geometry>
       </collision>
       <visual name="visual">
