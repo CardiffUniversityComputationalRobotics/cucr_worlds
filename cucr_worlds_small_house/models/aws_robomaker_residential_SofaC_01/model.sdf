@@ -5,11 +5,19 @@
       <inertial>
         <mass>40</mass>
       </inertial>
-      <collision name="collision">
-        <pose>0.003653 -0.002592 0.485957 0 0 0</pose>
+      <collision name="collision_1">
+        <pose>-0.691948 0.009908 0.485957 0 0 0</pose>
         <geometry>
           <box>
-            <size>2.431661 2.457726 0.972314</size>
+            <size>0.857692 2.201544 0.972314</size>
+          </box>
+        </geometry>
+      </collision>
+      <collision name="collision_2">
+        <pose>0.407024 0.68289 0.485957 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.344475 0.856993 0.972314</size>
           </box>
         </geometry>
       </collision>

@@ -5,11 +5,21 @@
       <inertial>
         <mass>1</mass>
       </inertial>
-      <collision name="collision">
-        <pose>-0.000043 -0.001869 0.566469 0 0 0</pose>
+      <collision name="collision_1">
+        <pose>-0.987642 -0.001869 0.566469 0 0 0</pose>
         <geometry>
           <box>
-            <size>2.582186 3.227173 1.142503</size>
+            <size>0.606987 3.227173 1.142503</size>
+          </box>
+        </geometry>
+        <laser_retro>0</laser_retro>
+        <max_contacts>10</max_contacts>
+      </collision>
+      <collision name="collision_2">
+        <pose>0.296697 1.30311 0.566469 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.988706 0.617214 1.142503</size>
           </box>
         </geometry>
         <laser_retro>0</laser_retro>
