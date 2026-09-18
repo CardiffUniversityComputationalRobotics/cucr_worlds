@@ -11,7 +11,7 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <depend>ros_gzharmonic</depend>
+  <depend>ros_gz_sim</depend>
 
   <exec_depend>ros2launch</exec_depend>
 
