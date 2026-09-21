@@ -58,11 +58,16 @@
             </plane>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/Ceiling</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/ceiling.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
       </link>
@@ -79,11 +84,16 @@
             </plane>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/Hallway</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/hallway.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision">
@@ -115,11 +125,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_1">
@@ -138,11 +153,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_2">
@@ -161,11 +181,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_3">
@@ -184,11 +209,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_4">
@@ -207,11 +237,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_5">
@@ -230,11 +265,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/Elevator</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/elevator.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_6">
@@ -253,11 +293,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/Elevator</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/elevator.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_7">
@@ -276,11 +321,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_8">
@@ -299,11 +349,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_9">
@@ -322,11 +377,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_10">
@@ -345,11 +405,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_11">
@@ -368,11 +433,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_12">
@@ -391,11 +461,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_13">
@@ -414,11 +489,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_14">
@@ -437,11 +517,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_15">
@@ -460,11 +545,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_16">
@@ -483,11 +573,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_17">
@@ -506,11 +601,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_18">
@@ -529,11 +629,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_19">
@@ -552,11 +657,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_20">
@@ -575,11 +685,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_21">
@@ -598,11 +713,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_22">
@@ -621,11 +741,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_23">
@@ -644,11 +769,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_24">
@@ -667,11 +797,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_25">
@@ -690,11 +825,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_26">
@@ -713,11 +853,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_27">
@@ -736,11 +881,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_28">
@@ -759,11 +909,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_29">
@@ -782,11 +937,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_30">
@@ -805,11 +965,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_31">
@@ -828,11 +993,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_32">
@@ -851,11 +1021,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_33">
@@ -874,11 +1049,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_34">
@@ -897,11 +1077,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_35">
@@ -920,11 +1105,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_36">
@@ -943,11 +1133,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_37">
@@ -966,11 +1161,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_38">
@@ -989,11 +1189,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_39">
@@ -1012,11 +1217,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_40">
@@ -1035,11 +1245,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_41">
@@ -1058,11 +1273,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_42">
@@ -1081,11 +1301,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_43">
@@ -1104,11 +1329,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_44">
@@ -1127,11 +1357,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_45">
@@ -1150,11 +1385,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_46">
@@ -1173,11 +1413,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_47">
@@ -1196,11 +1441,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_48">
@@ -1219,11 +1469,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_49">
@@ -1242,11 +1497,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_50">
@@ -1265,11 +1525,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_51">
@@ -1288,11 +1553,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_52">
@@ -1311,11 +1581,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_53">
@@ -1334,11 +1609,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_54">
@@ -1357,11 +1637,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_55">
@@ -1380,11 +1665,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_56">
@@ -1403,11 +1693,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_57">
@@ -1426,11 +1721,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_58">
@@ -1449,11 +1749,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_59">
@@ -1472,11 +1777,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_60">
@@ -1495,11 +1805,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_61">
@@ -1518,11 +1833,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_62">
@@ -1541,11 +1861,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/Door</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/door_wall.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_63">
@@ -1564,11 +1889,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_64">
@@ -1587,11 +1917,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_65">
@@ -1610,11 +1945,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_66">
@@ -1633,11 +1973,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_67">
@@ -1656,11 +2001,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_68">
@@ -1679,11 +2029,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_69">
@@ -1702,11 +2057,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_70">
@@ -1725,11 +2085,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_71">
@@ -1748,11 +2113,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_72">
@@ -1771,11 +2141,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_73">
@@ -1794,11 +2169,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_74">
@@ -1817,11 +2197,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_75">
@@ -1840,11 +2225,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_76">
@@ -1863,11 +2253,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_77">
@@ -1886,11 +2281,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_78">
@@ -1909,11 +2309,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_79">
@@ -1932,11 +2337,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_80">
@@ -1955,11 +2365,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_81">
@@ -1978,11 +2393,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_82">
@@ -2001,11 +2421,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_83">
@@ -2024,11 +2449,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_84">
@@ -2047,11 +2477,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_85">
@@ -2070,11 +2505,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_86">
@@ -2093,11 +2533,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_87">
@@ -2116,11 +2561,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_88">
@@ -2139,11 +2589,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_89">
@@ -2162,11 +2617,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_90">
@@ -2185,11 +2645,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_91">
@@ -2208,11 +2673,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_92">
@@ -2231,11 +2701,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_93">
@@ -2254,11 +2729,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_94">
@@ -2277,11 +2757,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_95">
@@ -2300,11 +2785,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_96">
@@ -2323,11 +2813,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_97">
@@ -2346,11 +2841,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_98">
@@ -2369,11 +2869,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_99">
@@ -2392,11 +2897,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_100">
@@ -2415,11 +2925,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_101">
@@ -2438,11 +2953,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_102">
@@ -2461,11 +2981,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_103">
@@ -2484,11 +3009,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_104">
@@ -2507,11 +3037,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_105">
@@ -2530,11 +3065,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_106">
@@ -2553,11 +3093,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_107">
@@ -2576,11 +3121,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_108">
@@ -2599,11 +3149,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_109">
@@ -2622,11 +3177,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_110">
@@ -2645,11 +3205,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_111">
@@ -2668,11 +3233,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_112">
@@ -2691,11 +3261,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_113">
@@ -2714,11 +3289,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_114">
@@ -2737,11 +3317,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_115">
@@ -2760,11 +3345,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_116">
@@ -2783,11 +3373,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_117">
@@ -2806,11 +3401,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_118">
@@ -2829,11 +3429,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_119">
@@ -2852,11 +3457,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_120">
@@ -2875,11 +3485,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_121">
@@ -2898,11 +3513,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_122">
@@ -2921,11 +3541,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_123">
@@ -2944,11 +3569,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_124">
@@ -2967,11 +3597,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_125">
@@ -2990,11 +3625,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_126">
@@ -3013,11 +3653,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_127">
@@ -3036,11 +3681,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_128">
@@ -3059,11 +3709,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_129">
@@ -3082,11 +3737,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_130">
@@ -3105,11 +3765,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_131">
@@ -3128,11 +3793,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_132">
@@ -3151,11 +3821,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_133">
@@ -3174,11 +3849,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_134">
@@ -3197,11 +3877,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_135">
@@ -3220,11 +3905,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_136">
@@ -3243,11 +3933,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_137">
@@ -3266,11 +3961,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_138">
@@ -3289,11 +3989,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_139">
@@ -3312,11 +4017,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_140">
@@ -3335,11 +4045,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_141">
@@ -3358,11 +4073,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_142">
@@ -3381,11 +4101,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_143">
@@ -3404,11 +4129,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_144">
@@ -3427,11 +4157,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_145">
@@ -3450,11 +4185,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_146">
@@ -3473,11 +4213,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_147">
@@ -3496,11 +4241,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_148">
@@ -3519,11 +4269,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <collision name="collision_149">
@@ -3545,11 +4300,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <visual name="visual_151_extra">
@@ -3560,11 +4320,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3576,11 +4341,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3592,11 +4362,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
         <visual name="visual_154_extra">
@@ -3607,11 +4382,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3623,11 +4403,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3639,11 +4424,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3655,11 +4445,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3671,11 +4466,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3687,11 +4487,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3703,11 +4508,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 
@@ -3719,11 +4529,16 @@
             </box>
           </geometry>
           <material>
-            <script>
-              <uri>../media/materials/scripts/</uri>
-              <uri>../media/materials/textures/</uri>
-              <name>ServiceSim/PlainWall</name>
-            </script>
+            <ambient>1 1 1 1</ambient>
+            <diffuse>1 1 1 1</diffuse>
+            <specular>0.2 0.2 0.2 1</specular>
+            <pbr>
+              <metal>
+                <albedo_map>../media/materials/textures/plain.png</albedo_map>
+                <metalness>0.0</metalness>
+                <roughness>0.9</roughness>
+              </metal>
+            </pbr>
           </material>
         </visual>
 

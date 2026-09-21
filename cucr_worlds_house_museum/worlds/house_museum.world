@@ -21,6 +21,15 @@
       <elevation>0</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
+
+    <plugin filename="gz-sim-physics-system" name="gz::sim::systems::Physics"/>
+    <plugin filename="gz-sim-user-commands-system" name="gz::sim::systems::UserCommands"/>
+    <plugin filename="gz-sim-scene-broadcaster-system" name="gz::sim::systems::SceneBroadcaster"/>
+    <plugin filename="gz-sim-imu-system" name="gz::sim::systems::Imu"/>
+    <plugin filename="gz-sim-sensors-system" name="gz::sim::systems::Sensors">
+      <render_engine>ogre2</render_engine>
+    </plugin>
+
     <model name='art_museum'>
       <link name='link_36'>
         <pose>0.007975 -0.173271 0 0 -0 0</pose>
@@ -66,25 +75,6 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose>-0.006831 0.023241 0 0 -0 0</pose>
     </model>
-    <state world_name='default'>
-      <sim_time>843 83000000</sim_time>
-      <real_time>213 649244089</real_time>
-      <wall_time>1686589909 719406985</wall_time>
-      <iterations>212836</iterations>
-      <model name='art_museum'>
-        <pose>0 0 0.45 0 -0 0</pose>
-        <scale>1 1 1</scale>
-        <link name='link_36'>
-          <pose>0.007975 -0.173271 0.45 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
-        </link>
-      </model>
-      <light name='sun'>
-        <pose>-16 -1.5 10 0 -0 0</pose>
-      </light>
-    </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
         <pose>-22.2282 -6.99052 18.0392 0 0.555642 0.540198</pose>

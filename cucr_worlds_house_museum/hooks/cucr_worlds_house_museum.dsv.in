@@ -1,0 +1,2 @@
+prepend-non-duplicate-if-exists;GZ_SIM_RESOURCE_PATH;share/@PROJECT_NAME@/models
+prepend-non-duplicate-if-exists;GZ_SIM_RESOURCE_PATH;share/@PROJECT_NAME@/worlds

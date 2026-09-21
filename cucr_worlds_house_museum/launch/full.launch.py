@@ -9,12 +9,12 @@ from launch_ros.substitutions import FindPackageShare
 
 def generate_launch_description():
 
-    scene = "museum"
+    scene = "house_museum"
 
     # ! PACKAGES DIR
     ros_gz_sim_dir = FindPackageShare(package="ros_gz_sim").find("ros_gz_sim")
-    cucr_worlds_dir = FindPackageShare(package="cucr_worlds_museum").find(
-        "cucr_worlds_museum"
+    cucr_worlds_dir = FindPackageShare(package="cucr_worlds_house_museum").find(
+        "cucr_worlds_house_museum"
     )
 
     world_model_path = os.path.join(cucr_worlds_dir, "worlds", scene + ".world")
