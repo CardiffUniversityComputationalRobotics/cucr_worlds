@@ -2,9 +2,7 @@
 
 Gazebo simulation worlds used by CUCR, packaged for **ROS 2 Jazzy** and **Gazebo Sim Harmonic (gz-sim 8)**.
 
-Each package ships a world, the models it needs, an occupancy map for offline
-navigation where one exists, and a `full.launch.py` that starts Gazebo on that
-world. The launch files bring up the simulation only — no robot is spawned.
+Each package ships a world, the models it needs, an occupancy map for offline navigation where one exists, and a `full.launch.py` that starts Gazebo on that world. The launch files bring up the simulation only — no robot is spawned.
 
 ## Requirements
 
@@ -40,11 +38,7 @@ colcon build --symlink-install
 source install/setup.bash
 ```
 
-Sourcing the workspace is what makes the worlds runnable: each package installs
-an environment hook that prepends its `models/` and `worlds/` directories to
-`GZ_SIM_RESOURCE_PATH`, so Gazebo can resolve the `model://` URIs inside the
-world files. Without sourcing, Gazebo starts with an empty scene and logs
-`Unable to find uri[model://...]`.
+Sourcing the workspace is what makes the worlds runnable: each package installs an environment hook that prepends its `models/` and `worlds/` directories to `GZ_SIM_RESOURCE_PATH`, so Gazebo can resolve the `model://` URIs inside the world files. Without sourcing, Gazebo starts with an empty scene and logs `Unable to find uri[model://...]`.
 
 ## Running the small house
 
@@ -70,8 +64,7 @@ ros2 launch cucr_worlds_small_house full.launch.py \
   world:=$(ros2 pkg prefix --share cucr_worlds_small_house)/worlds/small_house.world
 ```
 
-Or bypass ROS entirely once the workspace is sourced — the resource hook is set
-either way:
+Or bypass ROS entirely once the workspace is sourced — the resource hook is set either way:
 
 ```bash
 gz sim -r $(ros2 pkg prefix --share cucr_worlds_small_house)/worlds/small_house.world
@@ -84,8 +77,7 @@ gz topic -l | head            # /clock, /stats, /world/default/...
 gz model --list               # models present in the scene
 ```
 
-The matching Nav2 map lives at
-`$(ros2 pkg prefix --share cucr_worlds_small_house)/maps/small_house.yaml`.
+The matching Nav2 map lives at `$(ros2 pkg prefix --share cucr_worlds_small_house)/maps/small_house.yaml`.
 
 ### Launch arguments
 
@@ -118,8 +110,7 @@ ros2 launch cucr_worlds_small_warehouse full.launch.py \
 
 ## Spawning a robot
 
-These packages deliberately contain no robot. Start a world, then spawn a model
-into the running simulation with `ros_gz_sim`:
+These packages deliberately contain no robot. Start a world, then spawn a model into the running simulation with `ros_gz_sim`:
 
 ```bash
 ros2 launch cucr_worlds_small_house full.launch.py &
@@ -127,14 +118,10 @@ ros2 launch cucr_worlds_small_house full.launch.py &
 ros2 run ros_gz_sim create -world default -file /path/to/robot.sdf -name my_robot -z 0.1
 ```
 
-Bridge the topics you need with `ros_gz_bridge` (`/clock`, `/cmd_vel`, `/scan`, …);
-`ros_gz_sim` does not bridge anything on its own.
+Bridge the topics you need with `ros_gz_bridge` (`/clock`, `/cmd_vel`, `/scan`, …); `ros_gz_sim` does not bridge anything on its own.
 
 ## Credits
 
-- `cucr_worlds_museum`, `cucr_worlds_house_museum` — CUCR, based on the National
-  Museum Cardiff.
-- `cucr_worlds_hospital`, `cucr_worlds_bookstore`, `cucr_worlds_small_house`,
-  `cucr_worlds_small_warehouse` — [aws-robotics](https://github.com/aws-robotics)
-  RoboMaker world assets.
+- `cucr_worlds_museum`, `cucr_worlds_house_museum` — CUCR, based on the National Museum Cardiff.
+- `cucr_worlds_hospital`, `cucr_worlds_bookstore`, `cucr_worlds_small_house`, `cucr_worlds_small_warehouse` — [aws-robotics](https://github.com/aws-robotics) RoboMaker world assets.
 - `cucr_worlds_office` — ServiceSim office environment.
